@@ -1,7 +1,6 @@
-
 function vibeCheck() {
   
-return "Random number is: ";
+return "test message";
 }
 
 vibeCheck();
