@@ -4,7 +4,7 @@ var randomnum = Math.floor(Math.random() * (10 * precision - 1 * precision) + 1 
 
 function vibeCheck() {
   
-return "Random number is: " + randomnum;
+return "Random number is: ";
 }
 
 vibeCheck();
