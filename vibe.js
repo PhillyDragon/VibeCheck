@@ -1,1 +1,5 @@
-console.log('test message');
+function vibeCheck() {
+return 'test message';
+}
+
+vibeCheck();
