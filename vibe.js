@@ -1,5 +1,9 @@
+var precision = 100; // 2 decimals
+var randomnum = Math.floor(Math.random() * (10 * precision - 1 * precision) + 1 * precision) / (1*precision);
+
+
 function vibeCheck() {
-return 'test message';
+return randomnum.toString();
 }
 
 vibeCheck();
